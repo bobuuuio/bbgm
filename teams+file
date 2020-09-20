@@ -1,0 +1,43 @@
+{
+    "gameAttributes": [
+        {
+            "key": "playerBioInfo",
+            "value": {
+                "countries": {
+                    "USA": {
+                        "colleges": {
+                            "UGF": 1,
+                            "DVSU": 1,
+                            "ACU": 1,
+                            "Midland State": 1,
+                            "Nebraska State": 1,
+                            "Denver Tech": 1,
+                            "Kansas A&M": 1,
+                            "Ardmore": 1,
+                            "Shreveport": 1,
+                            "Little Rock": 1,
+                            "McAllen": 1,
+                            "Odessa State": 1,
+                            "Amarillo": 1,
+                            "Broken Arrow": 1
+                        }
+                    },
+                    "Canada": {
+                           "colleges": {
+                               "Regina State": 1
+                        }
+                    },
+                    "New Zealand": {
+                           "colleges": {
+                               "New Zealand Tech": 1
+                        }
+                    }
+                },
+                "frequencies": {
+                    "USA": 2,
+                    "Canada": 1,
+                    "New Zealand": 1
+                }
+            }
+        }
+    ]
