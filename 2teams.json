@@ -19,6 +19,6 @@
     ],
     "teams": [
         {"tid": 0, "cid": 0, "did": 0, "region": "Alaska", "name": "Chill", "abbrev": "ALA", "pop": 0.3},
-        {"tid": 1, "cid": 0, "did": 0, "region": "Honolulu", "name": "Riptide", "abbrev": "HON", "pop: 0.3}
+        {"tid": 1, "cid": 0, "did": 0, "region": "Honolulu", "name": "Riptide", "abbrev": "HON", "pop": 0.3}
     ]
 }
