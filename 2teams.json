@@ -14,11 +14,10 @@
         },
         {
             "key": "numPlayoffRounds",
-            "value": 2
+            "value": 1
         }
     ],
     "teams": [
-        {"tid": 0, "cid": 0, "did": 0, "region": "Alaska", "name": "Chill", "abbrev": "ALA", "pop": 0.3},
-        {"tid": 1, "cid": 0, "did": 0, "region": "Jacksonville", "name": "Jump", "abbrev": "BOS", "pop": 0.9}
+        {"tid": 0, "cid": 0, "did": 0, "region": "Alaska", "name": "Chill", "abbrev": "ALA", "pop": 0.3}
     ]
 }
